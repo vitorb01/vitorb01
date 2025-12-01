@@ -14,6 +14,6 @@ Projeto em destaque: [Carro](https://www.instagram.com/formulaufpb/?hl=pt)
 **Programas em aprendizado**
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=arduino,c,c++,python" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,pytorch,tensorflow" />
   </a>
 </p>
