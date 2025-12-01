@@ -12,10 +12,10 @@ Projeto em destaque: [Carro](https://www.instagram.com/formulaufpb/?hl=pt)
 <br/>
 
 <div align="center">
-  <h1>**Programas em aprendizado**</h1>
+  <h2>Programas em aprendizado</h2>
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,pytorch,tensorflow"/>
   </a>
 </p>
