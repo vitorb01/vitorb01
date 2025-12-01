@@ -10,3 +10,10 @@ Atualmente Sou Estudante de Engenharia Eletrica no 1º Periodo
 [**Formula UFPB**](https://br.linkedin.com/company/fórmula-ufpb) •
 Projetos em destaque: [Carro](https://www.instagram.com/formulaufpb/?hl=pt)
 <br/>
+
+## Programas em aprendizado
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
