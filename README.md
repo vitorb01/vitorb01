@@ -15,7 +15,7 @@ Projeto em destaque: [Carro](https://www.instagram.com/formulaufpb/?hl=pt)
 
 <b>
 <div align="center">
-  <h2>Programas em aprendizado</h2>
+<h2>Programas em aprendizado</h2>
 </div>
 <p align="center">
   <a href="#">
