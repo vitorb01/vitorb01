@@ -11,7 +11,7 @@ Atualmente Sou Estudante de Engenharia Eletrica no 1º Periodo
 Projeto em destaque: [Carro](https://www.instagram.com/formulaufpb/?hl=pt)
 <br/>
 
-#### Programas em aprendizado 
+### Programas em aprendizado 
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=arduino,c,python" />
