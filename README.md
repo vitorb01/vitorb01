@@ -18,7 +18,7 @@ Project: [Car](https://www.instagram.com/formulaufpb/?hl=pt)
 
 **Trainee** \
 [**Cerf Soluções**](https://www.cerfsolucoes.com.br) 
-</b>
+
 
 
 <b>
