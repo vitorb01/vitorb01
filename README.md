@@ -20,7 +20,7 @@ Projeto em destaque: [Carro](https://www.instagram.com/formulaufpb/?hl=pt)
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,r,pytorch,tensorflow,sklearn"/>
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,r,rust,pytorch,tensorflow,sklearn, raspberrypi, octave,"/>
   </a>
 </p>
 </b>
