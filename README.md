@@ -22,7 +22,7 @@ Project: [Car](https://www.instagram.com/formulaufpb/?hl=pt)
 
 
 <b>
-<div align="left">
+<div align="center">
 <h2>Programming Languages / Tools of Interest</h2>
 </div>
 
