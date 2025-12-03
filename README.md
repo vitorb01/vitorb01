@@ -14,6 +14,13 @@ Im currently Freshman Electrical Engineering Student at IFPB
 Project: [Car](https://www.instagram.com/formulaufpb/?hl=pt)
 </b>
 
+[<img align="left" height="94px" width="94px" alt="Formula" src="https://cdn.discordapp.com/attachments/1437796630547140725/1445069672113504266/IMG_0262.jpg?ex=692f0181&is=692db001&hm=https://cdn.discordapp.com/attachments/611666760143470602/1445784999310659736/IMG_0306.jpg?ex=69319bb5&is=69304a35&hm=ee93725fb67cb3dfda536e9cc418647ba705cee19df28ed4063047ea21e4da5f&"/>](https://www.instagram.com/cerfsolucoes/hl=pt)
+
+**Trainee** \
+[**Cerf Soluções**](https://www.cerfsolucoes.com.br) 
+</b>
+
+
 <b>
 <div align="left">
 <h2>Programming Languages / Tools of Interest</h2>
