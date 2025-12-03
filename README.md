@@ -24,3 +24,9 @@ Projeto em destaque: [Carro](https://www.instagram.com/formulaufpb/?hl=pt)
   </a>
 </p>
 </b>
+
+<b>
+<div align="center">
+<h2>Areas de Interesse</h2>
+Machine Learning / IOT / Robotica
+</div>
