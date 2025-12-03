@@ -2,7 +2,7 @@
 
 Im currently Freshman Electrical Engineering Student at IFPB
 
-<b>
+
 <div align="center">
 <h2>Projects Working On</h2>
 </div>
@@ -12,7 +12,7 @@ Im currently Freshman Electrical Engineering Student at IFPB
 **Electronics Engineer** \
 [**Formula UFPB**](https://br.linkedin.com/company/fórmula-ufpb) 
 Project: [Car](https://www.instagram.com/formulaufpb/?hl=pt)
-</b>
+
 
 [<img align="left" height="94px" width="94px" alt="Cerf" src="https://cdn.discordapp.com/attachments/611666760143470602/1445784999310659736/IMG_0306.jpg?ex=69319bb5&is=69304a35&hm=ee93725fb67cb3dfda536e9cc418647ba705cee19df28ed4063047ea21e4da5f&"/>](https://www.instagram.com/cerfsolucoes/hl=pt)
 
