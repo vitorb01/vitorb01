@@ -11,7 +11,7 @@ Atualmente Sou Estudante de Engenharia Eletrica no 1º Periodo
 **Sub Equipe Eletrica Formula UFPB** \
 [**Formula UFPB**](https://br.linkedin.com/company/fórmula-ufpb) 
 Projeto em destaque: [Carro](https://www.instagram.com/formulaufpb/?hl=pt)
-<br/>
+</b>
 
 <b>
 <div align="left">
